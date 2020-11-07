@@ -1,0 +1,25 @@
+.logo img{
+float: left;
+width: 200px;
+height: 150px;
+}
+.logo h1{
+color: #FFA500;
+position: relative;
+font-size:45px;
+}
+.logo h2{
+color: #FFFFFF;
+position: relative;
+font-size:35px;
+top: 0px
+}
+a:hover{
+color:red;
+}
+a{
+font-size:27px;
+font-weight:lighter;
+color:purple;
+text-decoration: none;
+}
